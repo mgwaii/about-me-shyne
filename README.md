@@ -77,7 +77,7 @@
 		<p> age: 15 </p>
 		<p> hobbies: playing guitar ✰ , valorant /ᐠ - ˕ -マ , eeeping (sleep) ᶻ 𝗓 𐰁 </p>
 		<p> zodiac sign: sagittarius </p>
-		<p> characteristcs: cute, quiet, always sleepy </p>
+		<p> characteristics: cute, quiet, always sleepy </p>
 		<p> fav song lyric: if a ghost is what i am to any, no one knows me like you know me, i exist to nobody but you </p>
         <div class="social-links">
             <a href="https://open.spotify.com/user/jardershyne?si=1a58b71391fe49e2" target="_blank"> spotify !</a>
